@@ -23,6 +23,18 @@ body {
   flex-wrap: wrap; /* allow items to stack on smaller screens */
 }
 
+#visitor-counter {
+      position: fixed;
+      top: 10px;
+      right: 20px;
+      background: #222;
+      color: #fff;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      box-shadow: 0px 2px 6px rgba(0,0,0,0.3);
+    }
 
 .profile-pic {
   width: 120px;
